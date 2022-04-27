@@ -8,7 +8,7 @@ A normal micro SD to SD adapter is converted into a wireless Card reader using e
 Files can be transferred to SD and also files can be copied from SD to any device where you can run an FTP client.
 For this particular project I used the AndFTP client for Android and the same process can be followed in PC by using WinSCP.
 
-![Wireless SD final build](https://github.com/Neutrino-1/Wireless_SD/blob/master/Circuit/wireless%20SD%20another.jpg)
+![Wireless SD final build](img/Wirless_SD_Circuit_Diagram.png)
 
 ### Getting Started
 
